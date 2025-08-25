@@ -5,7 +5,7 @@ function App() {
     <div className="App">
       <div className="header">
         <div className="logoside">
-            <h1>GURT WHAT U DO</h1>
+            <h1>Test</h1>
         </div>
       </div>
       <TodoList/>
